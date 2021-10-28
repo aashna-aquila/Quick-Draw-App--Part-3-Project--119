@@ -1,0 +1,23 @@
+body{
+    background-color: orange;
+}
+
+#sketch_name{
+    color: white;
+}
+p,span{
+padding-top: 10px;
+font-size: 25px;
+}
+#score{
+    font-size: 35px;
+    margin-left: 20px;
+}
+#timer{
+    font-size: 35px;
+    margin-right: 20px;
+    float: right;
+}
+#sketch{
+    float: right;
+}
